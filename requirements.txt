@@ -1,0 +1,5 @@
+flask-cors
+openpyxl
+xlrd
+Flask==0.11.1
+argparse
